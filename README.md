@@ -1,13 +1,13 @@
 
-<p > 👨‍💻 Olá, sou Luis Rigaud, um entusiasta da tecnologia. Minha jornada no mundo do desenvolvimento começou em 2021, quando iniciei como Analista de Suporte de Sistemas. Em apenas 8 meses, tive a incrível oportunidade de dar um salto para a posição de Desenvolvedor Júnior, concentrando-me principalmente no backend.
+<p > 👨‍💻 Hello, I'm Luis Rigaud, a technology enthusiast at the age of 35. My journey in the development world began in 2021, starting as a Systems Support Analyst. In just 8 months, I had the incredible opportunity to transition into the role of Junior Developer, focusing primarily on backend development.
 
-💻 Minha expertise central reside no desenvolvimento utilizando PHP e o poderoso framework Laravel. Ao longo dos anos, aprimorei minhas habilidades na construção de soluções robustas e escaláveis, utilizando as melhores práticas do Laravel para garantir eficiência e segurança.
+💻 My core expertise lies in PHP and the powerful Laravel framework. Over the years, I've honed my skills in building robust and scalable solutions, leveraging Laravel's best practices to ensure efficiency and security.
 
-📱 Além do backend, tenho experiência prática em projetos de desenvolvimento mobile e frontend, explorando também linguagens como HTML, CSS, e JavaScript.
+📱 In addition to backend development, I have practical experience in mobile and frontend projects, exploring languages such as HTML, CSS, and JavaScript.
 
-🚀 Apaixonado por desafios e inovação, busco constantemente ampliar meu conhecimento e explorar novas oportunidades. Seja criando APIs eficientes, construindo experiências de usuário envolventes ou otimizando o desempenho de aplicativos mobile, estou comprometido em oferecer soluções tecnológicas de alta qualidade.
+🚀 Passionate about challenges and innovation, I am constantly seeking to expand my knowledge and explore new opportunities. Whether it's creating efficient APIs, building engaging user experiences, or optimizing the performance of mobile applications, I am committed to delivering high-quality technological solutions.
 
-Vamos juntos construir o futuro tecnológico! </p>&nbsp;
+Let's build the technological future together! </p>&nbsp;
 
 
  
